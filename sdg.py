@@ -1,4 +1,5 @@
 # data loading
+impport streamlit as st
 from IPython.display import display
 
 import pandas as pd
